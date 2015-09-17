@@ -1,6 +1,11 @@
+/*!
+ * Student-defined css file.
+ * Please indicate your own css styling features here.
+ */
+
 body
 {
-  background: #f7f2ea;
+  backgrounds: #f7f2ea;
 }
 
 .jumbotron
